@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name SoBaSeNo)(type Legacy)(uri ${KIPRJMOD}/project_libraries/project-symbols/SoBaSeNo.lib)(options "")(descr ""))
+)

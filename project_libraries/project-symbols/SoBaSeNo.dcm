@@ -1,0 +1,52 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CN3801
+D CONSONANCE - 4A, Standalone LiFePO4 Battery Charger IC With Photovoltaic Cell MPPT Function
+K Charger, LiFePO4
+F http://www.consonance-elec.com/pdf/datasheet/DSE-CN3801.pdf
+$ENDCMP
+#
+$CMP CP2104
+D Single-Chip USB-to-UART Bridge, USB 2.0 Full-Speed, 2Mbps UART, QFN package
+K uart usb bridge interface transceiver
+F https://www.silabs.com/documents/public/data-sheets/cp2104.pdf
+$ENDCMP
+#
+$CMP DMP1045U
+F https://datasheet.lcsc.com/szlcsc/1809081432_Diodes-Incorporated-DMP1045U-7_C177033.pdf
+$ENDCMP
+#
+$CMP ESP32-WROVER-B
+D ESP32-WROVER-B(16MB), 16MB Flash, 8MB PSRAM, MIFA Antenna
+F https://www.espressif.com/sites/default/files/documentation/esp32-wrover-b_datasheet_en.pdf
+$ENDCMP
+#
+$CMP FDS4435BZ
+D MOSFET – P-Channel,-30 V, -8.8 A, 20 mOhm
+K P-Channel
+F http://www.onsemi.com/pub/Collateral/FDS4435BZ_F085-D.PDF
+$ENDCMP
+#
+$CMP FS8205
+D Dual N-Channel Enhancement Mode Power MOSFET
+K Dual N-Channel
+F https://datasheet.lcsc.com/szlcsc/1810110910_Fortune-Semicon-FS8205_C32254.pdf
+$ENDCMP
+#
+$CMP HY2112
+D 1-Cell LiFePO4 - Battery Packs Protection IC
+K LiFePO4, Protection
+F https://datasheet.lcsc.com/szlcsc/1810010241_HYCON-Tech-HY2112-BB_C161942.pdf
+$ENDCMP
+#
+$CMP NCP380
+F https://datasheet.lcsc.com/szlcsc/1809111614_ON-Semiconductor-NCP380HSNAJAAT1G_C77573.pdf
+$ENDCMP
+#
+$CMP RV-3028-C7
+D Ultra Small Real-Time Clock Module with I2C-Bus Interface
+K Real Time Clock (RTC) IC Clock/Calendar 2B, 43B I²C 8-WCDFN
+F https://www.microcrystal.com/fileadmin/Media/Products/RTC/Datasheet/RV-3028-C7.pdf
+$ENDCMP
+#
+#End Doc Library
